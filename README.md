@@ -124,4 +124,4 @@ This is part of my **Data Analytics Portfolio**, showcasing skills in:
 - Customer experience analysis  
 - Data visualization & storytelling  
 
-👉 [View Interactive Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiY2Y5MGUwZTEtYzA0Mi00NzYzLWI5YzktZjdlYmU4YWZiZjMzIiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D)
+👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2Y5MGUwZTEtYzA0Mi00NzYzLWI5YzktZjdlYmU4YWZiZjMzIiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D)
