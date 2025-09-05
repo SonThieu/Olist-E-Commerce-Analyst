@@ -30,7 +30,8 @@ This contradiction led to the key business question:
 
 **Insight:** Growth was fueled by *new customers only*. There was **no loyalty loop**.
 
-📸 *[Insert Overview screenshot]*
+<img width="1244" height="787" alt="image" src="https://github.com/user-attachments/assets/a6e769e8-519f-4b60-9cfa-2a9dcf1a2532" />
+
 
 ---
 
@@ -42,7 +43,8 @@ This contradiction led to the key business question:
 
 **Insight:** The most valuable groups (Loyal + Promising) were not retained. This points to a retention gap, not acquisition.  
 
-📸 *[Insert Customer Analysis screenshot]*
+<img width="1242" height="783" alt="image" src="https://github.com/user-attachments/assets/2e0539ef-a9e7-4cf9-86d6-da8e5e507df8" />
+
 
 ---
 
@@ -54,7 +56,8 @@ This contradiction led to the key business question:
 **Insight:** Dissatisfaction wasn’t just about late delivery — it was about **expectations not being managed**.  
 Even “successful” deliveries took too long, eroding trust.
 
-📸 *[Insert Customer Experience screenshot]*
+<img width="1239" height="784" alt="image" src="https://github.com/user-attachments/assets/305da856-82cf-474b-aeac-75b7cc5e2c82" />
+
 
 ---
 
@@ -66,7 +69,8 @@ Even “successful” deliveries took too long, eroding trust.
 **Insight:** When these products were delayed, review scores dropped significantly.  
 For gifts, *a delay = a lost purpose*.  
 
-📸 *[Insert Product Analysis screenshot]*
+<img width="1242" height="784" alt="image" src="https://github.com/user-attachments/assets/05f87c1c-8e0b-4e38-bad1-455ef76ccdfe" />
+
 
 ---
 
@@ -76,7 +80,8 @@ For gifts, *a delay = a lost purpose*.
 
 **Insight:** The retention blind spot was clear → **high-value customers buying time-sensitive products suffered the most delays.**
 
-📸 *[Insert Report Detail screenshot]*
+<img width="1234" height="785" alt="image" src="https://github.com/user-attachments/assets/20524019-1b92-4678-95b6-27e062b12544" />
+
 
 ---
 
