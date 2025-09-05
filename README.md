@@ -69,7 +69,7 @@ Even “successful” deliveries took too long, eroding trust.
 **Insight:** When these products were delayed, review scores dropped significantly.  
 For gifts, *a delay = a lost purpose*.  
 
-<img width="1242" height="784" alt="image" src="https://github.com/user-attachments/assets/05f87c1c-8e0b-4e38-bad1-455ef76ccdfe" />
+<img width="1239" height="787" alt="image" src="https://github.com/user-attachments/assets/24fec06a-ae82-4e0b-ba0e-16ef1ff3009d" />
 
 
 ---
