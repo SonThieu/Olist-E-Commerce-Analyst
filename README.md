@@ -63,11 +63,14 @@ Even “successful” deliveries took too long, eroding trust.
 
 ### 4. Product Analysis (Revenue by Category)
 - Top 3 categories: **Health & Beauty, Watches & Gifts, Bed Bath Table**.  
-- Loyal customers heavily purchased **Watches & Gifts** and **Beauty products**.  
-- These are **time-sensitive products**: gifts must arrive before an occasion, beauty products often needed urgently.  
+- Loyal customers concentrated on Watches & Gifts & Beauty — both **time-sensitive and premium**.  
+- **Price behavior:**  
+  - Loyal mean price ~38% higher than median → premium consumption.  
+  - Promising mean vs median gap ~10% → mid-range consumption.
 
-**Insight:** When these products were delayed, review scores dropped significantly.  
-For gifts, *a delay = a lost purpose*.  
+**Insight:** Retention strategies must differ by segment.  
+- Loyal: ensure authenticity, premium service, and guaranteed delivery.  
+- Promising: variety and affordability matter more.
 
 <img width="1239" height="787" alt="image" src="https://github.com/user-attachments/assets/24fec06a-ae82-4e0b-ba0e-16ef1ff3009d" />
 
@@ -89,30 +92,29 @@ For gifts, *a delay = a lost purpose*.
 
 1. **Logistics Optimization**  
    - Reduce lead time from 8–14 days → **<7 days**.  
-   - Focus on São Paulo & coastal regions where Loyal customers cluster.  
+   - Focus logistics in **São Paulo & coastal hubs**.  
 
 2. **Proactive Communication**  
-   - Notify customers early if a shipment is delayed.  
-   - Offer vouchers or discounts to mitigate dissatisfaction.  
+   - Notify customers early if delays occur.  
+   - Offer vouchers/discounts to soften dissatisfaction.  
 
-3. **Segment-Specific Strategies**  
-   - Prioritize **Loyal & Promising customers** with faster shipping options.  
-   - Special handling for **time-sensitive categories** (Watches & Gifts, Beauty).  
-
+3. **Segment-Specific Strategy**  
+   - Loyal (premium): VIP shipping, authenticity guarantee.  
+   - Promising (mid-range): variety expansion + targeted promotions. 
 ---
 
 ## 🔹 Potential Impact (What-if Scenario)
 
-If Loyal customers’ review scores improved from ~3.9 → 4.3 (the average for on-time deliveries):  
-- Retention could realistically move from **0% → 10–15%** in the next cycle.  
-- With Loyal segment revenue = 6.2M, even **10% repeat rate** would add **~620K revenue** annually.  
-- Better reviews → higher seller reputation → stronger growth flywheel.
+If Loyal review scores improve from ~3.9 → 4.3 (on-time average):  
+- Retention could move from **0% → 10–15%**.  
+- With Loyal revenue = 6.2M, even **10% repeat rate = +620K annual revenue**.  
+- Better reviews = higher NPS, lower acquisition cost (potential CAC ↓ 5–10%).  
+- Premium fast-delivery tier could add **+X NPS points**.
 
 ---
 
 ## 🔧 Tools & Techniques
-- **Power BI**: DAX measures, data modeling, dashboard design  
-- **SQL**: Data cleaning & exploration  
+- **Power BI**: DAX measures, data modeling, dashboard design, Power Query
 - **Storytelling with Data**: turning metrics into actionable business insights  
 
 ---
